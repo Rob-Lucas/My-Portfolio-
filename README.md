@@ -1,7 +1,7 @@
 # My-Portfolio-
 List of projects I have done in the past whether it be a hobby or for class assignments. Note that some of my work is not provided so feel free to ask if more 
 information is necessary.
-  Email:rsl.76.fib@gmail.com
+~ Email:rsl.76.fib@gmail.com
 ---
 ## Python
 The presented files within this Python Branch are all python based Data Structure I have done in the past. Not all are complete in full but are mostly completed.

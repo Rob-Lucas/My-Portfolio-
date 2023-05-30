@@ -1,4 +1,4 @@
-# My-Portfolio-
+# My-Portfolio
 List of projects I have done in the past whether it be a hobby or for class assignments. Note that some of my work is not provided so feel free to ask if more 
 information is necessary. Everything in here is organized via branches.
 ---

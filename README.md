@@ -6,7 +6,7 @@ Email:rsl.76.fib@gmail.com
 ---
 ## Recent updates: 
 ### 20230627
-- Uploaded a games branch that I have done for fun in the past. 
+- Uploaded a games branch for a list of games I have created for fun in the past. 
 - Uploaded an Arduino and Python sketch which allows IMU control on an monitor for the cursor.
 
 ## Python

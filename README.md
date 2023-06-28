@@ -6,12 +6,12 @@ Email:rsl.76.fib@gmail.com
 ---
 ## Recent updates: 
 ### 20230627
-- Uploaded a games branch for a list of games I have created for fun in the past. 
-- Uploaded an Arduino and Python sketch which allows IMU control of the cursor on a computer monitor.
+- Uploaded a games branch for a list of games I have created for fun in the past. <-- In games Branch
+- Uploaded an Arduino and Python sketch which allows IMU control of the cursor on a computer monitor. <-- In Projects Branch
 
 ## Python
 The presented files within this Python Branch are all python based Data Structure I have done in the past. Not all are complete in full but are mostly completed.
-If there are questions about any of the provided information please feel free to reach out VIA email.
+If there are questions about any of the provided information please feel free to reach out VIA email. Most of what you see in this location is not project based.
 
 ## C++/Arduino
 Anything in this branch is directly related to projects that have been done in free time and are free to pull if desired. Everything that is posted here is free use.

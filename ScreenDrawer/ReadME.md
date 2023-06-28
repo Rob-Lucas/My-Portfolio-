@@ -1,0 +1,3 @@
+The files within this directory contain an Arduino based project which uses an Arduino Nano along with an MPU 6050 to control a cursor on a computer screen.
+The image shows which pins go where on the Nano and the MPU 6050. You may wish to increase the scaling factor, however if you do this it is recommended to adjust
+your EMA parameters within the python code otherwise the result will not be very smooth.

@@ -1,6 +1,7 @@
 #Robert Lucas
 #11/29/2021
 #HasamiShogiGame.py Allows one to play a game of HasamiShogi. Really frustrated with this and wanted to complete it but I have 4 major projects due by today and don't have enough time. If you comment out the get_capture function the code will run.
+#This was one of the first things I wrote in python so it is a bit of a mess.
 
 class HasamiShogiGame():
     """
